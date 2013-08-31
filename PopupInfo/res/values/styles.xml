@@ -1,0 +1,19 @@
+<resources>
+	
+	<style name="AppBaseTheme" parent="android:Theme.Light">
+		
+	</style>
+	
+	<!-- Application theme. -->
+	<style name="AppTheme" parent="AppBaseTheme">
+		
+	</style>
+	
+	<style name="PersonBubbleText">
+		<item name="android:shadowColor">@color/person_bubble_shadow</item>
+		<item name="android:shadowRadius">2</item>
+		<item name="android:shadowDx">0</item>
+		<item name="android:shadowDy">-4</item>
+	</style>
+	
+</resources>

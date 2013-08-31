@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<dimen name="person_bubble_width">190dp</dimen>
+	<dimen name="person_bubble_corner">8dp</dimen>
+	
+</resources>
